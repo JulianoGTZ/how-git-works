@@ -1,5 +1,5 @@
 ## Hello, there :hand:
-![Tom Hanks acenando](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Cena famosa do Forrest Gump acenando](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 Este é um repositório com alguns dos meus filmes favoritos só para ilustrar como o git funciona por baixo do capô. 
 
